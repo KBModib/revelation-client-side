@@ -1,11 +1,12 @@
 import Nav from '../src/Nav/Nav'
+import W
 
 function App() {
   return (
     <div >
       
     <>
-      <Nav/>
+      <Wishlist/>
     </>
 
     </div>

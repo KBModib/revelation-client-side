@@ -1,0 +1,239 @@
+
+.Container{
+    
+    justify-items: center;
+}
+
+.info {
+    
+    float: right;
+    justify-content: left !important;
+    margin-top: -450px;
+    margin-right: 200px;
+
+}
+
+.image{
+    padding-left: 100px;
+    
+}
+.Addbtn{
+    margin-top: 25px;
+}
+
+.heading{
+	font-size: 50px;
+    font-weight: 700;
+    color: #B76E79;
+    justify-content: center;
+    display: flex;
+	margin-top: 10px;
+    
+}
+
+.heading2{
+	font-size: 32px;
+    font-weight: 700;
+    color: #B76E79;
+    justify-content: center;
+    display: flex;
+	margin-top: 5px;
+    
+    
+}
+
+.name{
+	font-size: 28px;
+    font-weight: 200;
+    color: black;
+    justify-content: center;
+    display: flex;
+	margin-top: 5px;
+    
+    
+}
+
+.heading4{
+	font-size: 32px;
+    font-weight: 700;
+    color: #B76E79;
+    justify-content: center;
+    display: flex;
+	margin-top: 5px;
+    
+}
+.AvailS{
+    font-size: 32px;
+    font-weight: 700;
+    color: #B76E79;
+    justify-content: center;
+    display: flex;
+	margin-top: 5px;
+    
+   
+}
+.AvailC{
+    font-size: 32px;
+    font-weight: 700;
+    color: #B76E79;
+    justify-content: center;
+    display: flex;
+	margin-top: 5px;
+   
+   
+}
+
+.desc{
+	font-size: 28px;
+    font-weight: 200;
+    color: black;
+    justify-content: center;
+    display: flex;
+	margin-top: 5px;
+    
+    
+}
+.btnWish {
+ 
+    width: 200px;
+    text-align: center;
+    height: 55px;
+    font-weight: 400;
+    font-size: 20px;
+    border: none;
+    margin-right: 25px;
+    margin-left: 25px;
+    border-radius: 5px;
+    background-color: #F7CAC9;
+    
+}
+
+.btnAdd {
+    width: 200px;
+    text-align: center;
+    height: 55px;
+    font-weight: 400;
+    font-size: 20px;
+    border: none;
+    margin-right: 25px;
+    margin-left: 25px;
+    border-radius: 5px;
+    background-color: #F7CAC9;
+}
+
+.btnAdd:hover{
+    background-color: #B76E79;
+    color: rgb(0, 0, 0);
+}
+
+.btnWish:hover{
+    background-color: #B76E79;
+    color: rgb(0, 0, 0);
+}
+
+.btnSize{
+    width: 30px;
+    margin-right: 25px;
+    margin-left: 25px;
+    text-align: center;
+    height: 35px;
+    background-color: transparent;
+    border-radius: 5px;
+}
+
+.btnSize:hover{
+    background-color: lightblue;
+    color: rgb(0, 0, 0);
+}
+.Sizebtn{
+    
+     margin-left: 110px;
+    
+}
+
+.Colorbtn{
+    margin-left: 110px;
+}
+
+.btnRed{
+    width: 50px;
+    margin-right: 25px;
+    margin-left: 25px;
+    text-align: center;
+    height: 35px;
+    background-color: rgb(240, 120, 120);
+    border-radius: 5px;
+}
+
+.btnRed:hover{
+    background-color: red;
+}
+
+.btnBlue{
+    width: 50px;
+    margin-right: 25px;
+    margin-left: 25px;
+    text-align: center;
+    height: 35px;
+    background-color: rgb(106, 171, 233);
+    border-radius: 5px;
+}
+
+.btnBlue:hover{
+    background-color: rgb(0, 225, 255)
+}
+.btnOrange{
+    width: 50px;
+    margin-right: 25px;
+    margin-left: 25px;
+    text-align: center;
+    height: 35px;
+    background-color: rgb(252, 192, 82);
+    border-radius: 5px;
+}
+.btnOrange:hover{
+    background-color: rgb(255, 153, 0);
+}
+
+.btnGreen{
+    width: 50px;
+    margin-right: 25px;
+    margin-left: 25px;
+    text-align: center;
+    height: 35px;
+    background-color: rgb(77, 252, 77);
+    border-radius: 5px;
+}
+
+.btnGreen:hover{
+    background-color: rgb(0, 185, 0);
+}
+
+.btnBlack{
+    width: 50px;
+    margin-right: 25px;
+    margin-left: 25px;
+    text-align: center;
+    height: 35px;
+    background-color: rgb(54, 54, 54);
+    border-radius: 5px;
+    color: white;
+}
+
+.btnBlack:hover{
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+
+.productImageView{
+  
+    width: 28%;
+    height: auto;
+}
+
+.line{
+    margin: -20px 150px 30px 150px ;
+    /* padding-bottom: 30px; */
+
+}

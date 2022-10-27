@@ -1,4 +1,4 @@
-import Nav from '../src/Nav/Nav'
+import Nav 
 
 function App() {
   return (

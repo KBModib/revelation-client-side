@@ -1,0 +1,86 @@
+.h1{
+	font-size: 60px;
+    font-weight: 700;
+    color: #B76E79;
+    justify-content: center;
+    display: flex;
+	margin-top: 80px;
+}
+
+.ans {
+	font-size: 30px;
+    font-weight: 500;
+}
+.profile{
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-between;
+	padding-top: 40px;
+}
+.image-card{
+	padding: 100px;
+	background: linear-gradient(120deg, #F7CAC9 0%, rgba(243, 240, 240, 0) 100%);
+	width: 450px;
+	height: 650px;
+	margin-left: 200px;
+}
+.image-card img{
+	width: 100%;
+	height: 100%;
+	object-fit: contain;
+	margin-top: -100px;
+}
+.button-card{
+	width: 250px;
+	height: 450px;
+	margin-right: 600px;
+	margin-top: -20px;
+}
+.btn {
+	display: inline-block;
+  	padding: 20px 20px;
+	font-size: 20px;
+	cursor: pointer;
+	text-align: left;
+	text-decoration: none;
+	outline: none;
+	color: #000;
+	background-color: #F7CAC9;
+	border: none;
+	width: 550px;
+	height: 60px;
+	margin-top: 20px;
+}
+
+.btn:hover {background-color: #B76E79}
+
+.btn-sec {
+	display: inline-block;
+  	padding: 20px 20px;
+	font-size: 25px;
+	cursor: pointer;
+	text-align: left;
+	text-decoration: none;
+	outline: none;
+	color: #000;
+	background-color: #F7CAC9;
+	border: none;
+	width: 250px;
+	height: 100px;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+
+.btn-btm{
+	flex-direction: row;
+	width: 550px;
+	margin-top: 80px;
+	
+}
+.icon{
+	margin-right: 30px;
+	float: right;
+}
+
+.btn-sec:hover {background-color: #B76E79}
