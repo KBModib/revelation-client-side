@@ -1,0 +1,26 @@
+.Staticpages{
+    padding: 50px;
+    margin: 20px;
+    border: 1px solid transparent;
+}
+.Heading{
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 1.1;
+    color: #B76E79;
+    justify-content: center;
+    display: flex;
+    border-bottom: 2px solid #DFDFDF;
+    padding: 15px;
+
+}
+.Info-section{
+    margin: 20px;
+    padding: 20px;
+    justify-content: space-evenly;
+  
+}
+.ques{
+    color: #B57466;
+    margin-bottom: -10px;
+}

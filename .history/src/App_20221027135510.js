@@ -1,11 +1,11 @@
-import Nav from '../src/Nav/Nav'
+import Nav from '../src/'
 
 function App() {
   return (
     <div >
       
     <>
-      <Nav/>
+      </>
     </>
 
     </div>

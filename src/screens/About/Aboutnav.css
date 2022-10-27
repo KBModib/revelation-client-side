@@ -1,0 +1,30 @@
+.navbar {
+    background-color: #0f0c0b;
+    border: 0;
+    line-height: 8 !important;
+    letter-spacing: 4px;
+    border-radius: 0;
+    font-family: Montserrat, sans-serif;
+}
+
+.navbar-button {
+    color: #fff !important;
+    background-color: transparent;
+    border: 0;
+    line-height: 8 !important;
+    letter-spacing: 4px;
+    border-radius: 0;
+    font-family: Montserrat, sans-serif;
+    padding: 0px 160px;
+}
+
+.navbar-button:hover {
+    color: #B76E79 !important;
+    background-color: transparent;
+    border: 0;
+    line-height: 8 !important;
+    letter-spacing: 4px;
+    border-radius: 0;
+    font-family: Montserrat, sans-serif;
+    padding: 0px 160px;
+}
